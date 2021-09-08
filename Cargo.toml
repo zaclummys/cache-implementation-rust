@@ -1,0 +1,9 @@
+[package]
+name = "trabalho-2-fac"
+version = "1.0.0"
+authors = ["Isaac Luiz Vieira Ferreira <isaacluizvieiraferreira@id.uff.br>"]
+description = "Trabalho sobre cache realizado para a disciplina de Fundamentos de Arquitetura de Computadores"
+edition = "2018"
+
+[dependencies]
+clap = "3.0.0-beta.2"
